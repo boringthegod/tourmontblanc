@@ -3,8 +3,7 @@
 Une petite webapp auto-hébergée pour préparer et vivre un **Tour du Mont Blanc
 entre amis** : les étapes jour par jour sur de vrais tracés de sentier, le
 dénivelé, les refuges et leurs consignes, une **carte en relief 3D**, la
-**météo à l'altitude de chaque col** et une **checklist de matos partagée** pour
-savoir qui porte le réchaud.
+**météo à l'altitude de chaque col** et une **checklist de matos partagée**.
 
 On l'a construite pour notre propre TMB (septembre 2026, 6 personnes, 7 étapes,
 ~156 km et ~9 500 m de D+) et on l'a utilisée tout le long du tour. Le dépôt
